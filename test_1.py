@@ -20,7 +20,7 @@ def test_converting_tuple_to_list():
     assert f"{type(tpl)}" == "<class 'tuple'>", logging.error('FAILED')
 
 
-def test_zero_division_float_structure():
+#def test_zero_division_float_structure():
 
 
 
